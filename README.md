@@ -1,1 +1,2 @@
-"Megan Steele" 
+Megan Steele
+marshmeg@oregonstate.edu
